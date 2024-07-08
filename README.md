@@ -14,6 +14,10 @@ Fully autoregressive (left) and non-autoregressive VPTR (right).
 ## Pretrained-models
 Download the checkpoints from here: https://polymtlca0-my.sharepoint.com/:f:/g/personal/xi_ye_polymtlus_ca/EuxjSddJ7wNIsiSTOfB-u7AB7qQhP5H0iX2a5mbaowiSZw?e=taglte
 
+我已经下载
+
+MovingMNIST_AE.tar, MovingMNIST_FAR.tar, MovingMNIST_NAR.tar 到 
+
 See Test_AutoEncoder.ipynb and Test_VPTR.ipynb for the detatiled test functions.
 
 ## Training
